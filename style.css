@@ -66,3 +66,31 @@
 #prova {
     display: flex;
 }
+#footer {
+	width: 100%;
+	padding: 30px;
+	height: 200px;
+	background-color: var(--secondary-color);
+}
+
+#footer .flex {
+	justify-content: flex-end;
+}
+
+#footer .footernav {
+	margin: 0 25px;
+}
+
+#footernav a:hover {
+	color: #ffffff;
+}
+
+#footer-logo img {
+	width: 100px;
+	height: auto; 
+  }
+#button {
+    color: rgb(1, 8, 74);
+    text-decoration: none;
+    font-size: 100%;
+}
