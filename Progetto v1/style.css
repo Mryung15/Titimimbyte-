@@ -1,0 +1,68 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/* Stile per il menu principale */
+#hormenu {
+    background-color: #eee;
+    padding: 12px;
+}
+
+/* Stile per i link principali */
+#hormenu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#hormenu ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+#hormenu ul li a {
+    color: rgb(1, 8, 74);
+    text-decoration: none;
+    font-size: 200%;
+}
+
+/* Stile per i sotto-menu */
+#hormenu ul ul {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #fff;
+    padding: 100px;
+}
+
+#hormenu ul li:hover ul {
+    display: block;
+}
+
+#hormenu ul ul li {
+    display: block;
+    margin: 0;
+}
+
+#hormenu ul ul li a {
+    color: rgb(1, 8, 74);
+}
+#text {
+    background-color: #eee;
+    padding: 14px;
+    margin: 10px;
+}
+
+#text2  {
+    background-color: #eee;
+    padding: 50px;
+        color: rgb(1, 8, 74);
+        text-decoration: none;
+        font-size: 200%;
+    }
+
+#prova {
+    display: flex;
+}
