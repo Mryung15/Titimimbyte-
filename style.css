@@ -6,7 +6,6 @@
 /* Stile per il menu principale */
 #hormenu {
     background-color: #047294;
-    padding: 0px;
 }
 
 /* Stile per i link principali */
@@ -52,6 +51,7 @@
 }
 #text {
     background-color: #eee;
+    text-decoration: none;
     padding: 14px;
     margin: 10px;
 }
@@ -104,6 +104,7 @@
     display: flex;
     padding: 100px;
     margin: 10px;
+    text-decoration: none;
 }
 #numero {
     color: green;
