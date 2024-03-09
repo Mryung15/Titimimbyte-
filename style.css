@@ -99,3 +99,8 @@
     background-attachment: fixed;
     font-size: 100%;
 }
+#prova2 {
+    display: flex;
+    padding: 100px;
+    margin: 10px;
+}
