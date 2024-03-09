@@ -57,10 +57,11 @@
 
 #text2  {
     background-color: #eee;
-    padding: 50px;
         color: rgb(1, 8, 74);
         text-decoration: none;
         font-size: 200%;
+        margin: 0;
+        padding: 0;
     }
 
 #prova {
@@ -92,5 +93,9 @@
 #button {
     color: rgb(1, 8, 74);
     text-decoration: none;
+    font-size: 100%;
+}
+#bordo{
+    background-attachment: fixed;
     font-size: 100%;
 }
