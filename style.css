@@ -5,8 +5,8 @@
 
 /* Stile per il menu principale */
 #hormenu {
-    background-color: #eee;
-    padding: 12px;
+    background-color: #047294;
+    padding: 0px;
 }
 
 /* Stile per i link principali */
@@ -47,7 +47,8 @@
 }
 
 #hormenu ul ul li a {
-    color: rgb(1, 8, 74);
+    color: rgb(1, 8, 74)
+    
 }
 #text {
     background-color: #eee;
@@ -106,4 +107,8 @@
 }
 #numero {
     color: green;
+}
+#home {
+    background-color: #045770;
+    padding: 15px;
 }
