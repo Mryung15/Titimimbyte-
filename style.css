@@ -108,3 +108,15 @@
     width: 50%;
     padding: 10px;
 }
+
+
+#bottonbot {
+    background-color: #047294;
+
+    color: rgb(1, 8, 74);
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    margin: 0px 2px;
+    cursor: pointer;
+  }
